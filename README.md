@@ -1,3 +1,18 @@
+# BPP Volunteer Survey
+
+A Next.js web application for recruiting volunteers and collecting survey data about community areas.
+
+## About
+
+This application enables:
+- **Volunteer self-registration** with contact information and availability
+- **Comprehensive area surveys** covering environmental, traffic, infrastructure, and safety observations
+- **Data collection** for research and community planning purposes
+
+For detailed documentation, see [SURVEY_DOCUMENTATION.md](./SURVEY_DOCUMENTATION.md).
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
